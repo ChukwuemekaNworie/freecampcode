@@ -191,7 +191,7 @@ input[type="submit"] {
     }
 
     ol li{
-        margin: 10px
+        margin: 10px;
     }
 
 
@@ -217,8 +217,8 @@ input[type="submit"] {
 
     footer span
     {
-    display:flex;
-    font-zise:0.9em;
+    display: flex;
+    font-zise: 0.9em;
     color:#444;
     margin-top: 5px;
     justify-content: flex-end;
@@ -236,6 +236,13 @@ input[type="submit"] {
      color: darkorange;
     
     }
+
+    .fa, .fas {
+        font-weight: 900;
+        font-size: 50px;
+        margin-left: 10%;
+    }
+
 
 
 
